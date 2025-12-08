@@ -9,4 +9,4 @@
 
 YouTube 影片連結：
 
-專題程式碼 GitHub Repo 連結：
+專題程式碼 GitHub Repo 連結：https://github.com/41371204h/project
