@@ -1,12 +1,24 @@
-## socialpet
-------------------------
-專題名稱：毛孩交友天地
+毛孩交友天地（Pet Social Universe）
 
-組員姓名與學號：
-41371204H 李雅郁、41371210H 劉祐羽、41371211H 周怡辰
+一個讓毛孩也能交朋友的互動式社交平台！
 
-線上網站網址：https://socialpet-txxm.onrender.com/
+🐶 專題介紹
 
-YouTube 影片連結：
+「毛孩交友天地」是一個專門為寵物打造的線上社交平台，提供地圖定位、寵物檔案、友善地點資訊、活動規劃與互動功能。
+希望藉由此平台，幫助飼主找到附近的寵物友善環境，並讓毛孩們也能交到更多朋友！
 
-專題程式碼 GitHub Repo 連結：https://github.com/41371204h/project
+👩‍💻 組員資訊
+李雅郁	41371204H
+劉祐羽	41371210H
+周怡辰	41371211H
+
+🌐 專題成果
+
+線上網站網址：
+👉 https://socialpet-txxm.onrender.com/
+
+YouTube 介紹影片：
+👉
+
+GitHub 專案程式碼 Repo：
+👉 https://github.com/41371204h/project
