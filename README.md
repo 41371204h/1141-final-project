@@ -23,7 +23,8 @@
 ## 🌐 專題成果
 
 線上網站網址：
-👉 https://socialpet-txxm.onrender.com/
+👉 Render：https://socialpet-txxm.onrender.com/
+👉 Vercel：https://socialpet-psi.vercel.app/
 
 YouTube 介紹影片：
 👉
